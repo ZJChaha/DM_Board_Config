@@ -1,0 +1,6 @@
+D:/Clion_Project/DM_Board_Config/cmake-build-debug/CMakeFiles/DM_Board_Config.elf.dir
+D:/Clion_Project/DM_Board_Config/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion_Project/DM_Board_Config/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Clion_Project/DM_Board_Config/cmake-build-debug/bin_dsp/CMakeFiles/CMSISDSP.dir
+D:/Clion_Project/DM_Board_Config/cmake-build-debug/bin_dsp/CMakeFiles/edit_cache.dir
+D:/Clion_Project/DM_Board_Config/cmake-build-debug/bin_dsp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BSP/bsp_can.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BSP/bsp_key.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BSP/bsp_rc.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BSP/bsp_usart.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Core/Src/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/Algorithm/controller.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/Algorithm/pid.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/Algorithm/pid.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/Algorithm/user_lib.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/Algorithm/user_lib.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/BMI088/BMI088Middleware.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Device/Mahony/MahonyAHRS.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/My_driver_lib/CRC8_CRC16.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/My_driver_lib/CRC8_CRC16.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/My_driver_lib/kalman.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/My_driver_lib/kalman.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/TASK/USB_task.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/adc_modlue.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/bsp_usart.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/key_bsp.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/key_driver.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/key_driver.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/lcd.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/lcdfont.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/remote_control.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/remote_control.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/User/sbus_port.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lcd备份/lcd.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vofa+/vofa.c" charset="GBK" />
+  </component>
+</project>

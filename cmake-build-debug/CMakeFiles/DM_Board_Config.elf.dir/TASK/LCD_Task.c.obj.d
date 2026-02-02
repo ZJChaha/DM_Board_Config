@@ -1,0 +1,32 @@
+CMakeFiles/DM_Board_Config.elf.dir/TASK/LCD_Task.c.obj: \
+ D:\Clion_Project\DM_Board_Config\TASK\LCD_Task.c \
+ D:\Clion_Project\DM_Board_Config\TASK\LCD_Task.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdint.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\_default_types.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\features.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_newlib_version.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_stdint.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS/cmsis_os.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ c:\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ D:\Clion_Project\DM_Board_Config\Core\Inc/FreeRTOSConfig.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/timers.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/queue.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/semphr.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/queue.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/event_groups.h \
+ D:\Clion_Project\DM_Board_Config\Middlewares\Third_Party\FreeRTOS\Source\include/timers.h \
+ D:\Clion_Project\DM_Board_Config\Picture_Lib/WeChat.h \
+ D:\Clion_Project\DM_Board_Config\User/remote_control.h \
+ D:\Clion_Project\DM_Board_Config\BSP/bsp_rc.h \
+ D:\Clion_Project\DM_Board_Config\User/pic.h
